@@ -2,11 +2,14 @@
 
 ## 2019
 
-* Learning Disentangled Representations with Reference-Based Variational Autoencoders [[paper]](https://arxiv.org/abs/1901.08534)
+* Learning Disentangled Representations with Reference-Based Variational Autoencoders (Ruiz, Martinez et. al) [[paper]](https://arxiv.org/abs/1901.08534)
+* Spatial Broadcast Decoder: A Simple Architecture for Learning Disentangled Representations in VAEs (Watters, Burgess, Lercher) ((paper))[https://arxiv.org/abs/1901.07017]
 
 ## 2018 
 
+* Relational Neural Expectation Maximization: Unsupervised Discovery of Objects and their interaction (Sjoerd van Steenkiste, Michael Chang, Klaus Greff, Jürgen Schmidhuber) [[paper]](https://arxiv.org/pdf/1802.10353.pdf) 
 * Curiosity Driven Exploration of Learned Disentangled Goal Spaces [[paper]](https://arxiv.org/abs/1807.01521)
+* Recurrent World Models Facilitate Policy Evolution (David Ha, Jürgen Schmidhuber) [[paper]](https://arxiv.org/abs/1809.01999)
 * Hyperprior Induced Unsupervised Disentanglement of Latent Representations (Jan, Ansari and Soh) [[paper]](https://arxiv.org/abs/1809.04497)
 * A Spectral Regularizer for Unsupervised Disentanglement (Dec, Ramesh et. al.) [[paper]](https://arxiv.org/abs/1812.01161v1)
 * Disentangling Disentanglement  (Dec, Mathieu et. al.) [[paper]](https://arxiv.org/abs/1812.02833v1)
@@ -41,6 +44,7 @@
 
 ## 2017
 
+* Neural Expectation Maximization (Klaus Greff et. al.) [[paper]](https://papers.nips.cc/paper/7246-neural-expectation-maximization.pdf)
 * The β-VAE's Implicit Prior (Dec, Hoffman et. al.) [[paper]](http://bayesiandeeplearning.org/2017/papers/66.pdf)
 * The Multi-Entity Variational Autoencoder (Dec, Nash et. al.) [[paper]](http://charlienash.github.io/assets/docs/mevae2017.pdf)
 * Learning Independent Causal Mechanisms (Dec, Parascandolo et. al.) [[paper]](https://arxiv.org/abs/1712.00961)
@@ -62,6 +66,7 @@
 
 ## 2016
 
+* Tagger: Deep Unsupervised Perceptual Grouping (Klaus Greff, Jurguen Schmidhuber et. al.) ((paper))[https://papers.nips.cc/paper/6067-tagger-deep-unsupervised-perceptual-grouping.pdf]
 * Deep Variational Information Bottleneck (Dec, Alemi et. al.) [[paper]](https://arxiv.org/abs/1612.00410) -- & (Didn't understand some parts of it)
 * β-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework (Nov, Higgins et. al.) [[paper]](https://openreview.net/forum?id=Sy2fzU9gl) [[code]](https://github.com/sootlasten/beta-vae) -- &&
 * Disentangling factors of variation in deep representations using adversarial training (Nov, Mathieu et. al.) [[paper]](https://arxiv.org/abs/1611.03383)
